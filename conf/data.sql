@@ -1,0 +1,1 @@
+insert into books (id, name, authorName, serialNumber) values (1, 'Book of Daniel', 'Daniel', 10000);
